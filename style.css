@@ -7,4 +7,10 @@ body{
     display: grid;
     height: 100vh;
     place-content: center;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: #ff0;
 }
